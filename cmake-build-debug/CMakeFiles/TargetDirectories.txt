@@ -1,0 +1,3 @@
+C:/usr/XO/cmake-build-debug/CMakeFiles/XO.dir
+C:/usr/XO/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/usr/XO/cmake-build-debug/CMakeFiles/rebuild_cache.dir
